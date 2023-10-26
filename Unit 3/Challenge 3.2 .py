@@ -20,6 +20,6 @@ for student in students_list:
 
 sort_students(students_list)
 
-print("\nSorted List:")
+print("\nSorted  List:")
 for student in students_list:
     print(student.name, student.roll_number, student.cgpa)
